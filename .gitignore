@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+pruebas_resultado.txt
+.DS_Store
